@@ -17,13 +17,13 @@ variable "public_key_path" {
 }
 
 #Your public IP address
-variable "access_ip" {
+variable "172.31.28.44" {
   type    = string
   default = "1.1.1.1/32"
 }
 
 #Cloud9 public IP address
-variable "cloud9_ip" {
+variable "172.31.28.44" {
   type    = string
   default = "1.1.1.1/32"
 }

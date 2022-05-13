@@ -1,0 +1,7 @@
+{
+  "credentials": {
+    "app.terraform.io": {
+      "token": "kziwzzD0zTuxNQ.atlasv1.KPODEmIYrr9lHweDvkRCFrWwrMZnaElMB8h26C1i0bX34CkwTp53nhnN1fFfasLm8s4"
+    }
+  }
+}
